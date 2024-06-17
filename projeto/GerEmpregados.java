@@ -3,10 +3,10 @@ package projeto;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GerenciadorEmpregados {
+public class GerEmpregados {
     private final List<Empregado> empregados;
 
-    public GerenciadorEmpregados() {
+    public GerEmpregados() {
         this.empregados = new ArrayList<>();
     }
 
