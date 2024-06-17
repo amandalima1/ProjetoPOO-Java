@@ -1,4 +1,4 @@
-package teste;
+package projeto;
 import java.util.Scanner;
 
 public class Main {

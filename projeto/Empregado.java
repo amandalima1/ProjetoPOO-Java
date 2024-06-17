@@ -1,4 +1,4 @@
-package teste;
+package projeto;
 
 public class Empregado {
     private final String nome;
